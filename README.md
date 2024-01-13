@@ -29,7 +29,9 @@ git clone https://github.com/NOWSHAD76/Proactive-Text-Moderation.git
 pip install -r requirements.txt
 ```
 
-_Create a virtual environment if required before installing_ 3. Update config file `model_train/config.py` for model training if required 4. Start the model training
+_Create a virtual environment if required before installing_
+
+3. Update config file `model_train/config.py` for model training if required 4. Start the model training
 
 ```
 python model_train/train.py
