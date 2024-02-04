@@ -43,4 +43,3 @@ python model_train/train.py
 python main.py
 ```
 
-### Additional features using Mlflow and Ray are coming soon
